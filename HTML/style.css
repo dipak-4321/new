@@ -1,0 +1,52 @@
+
+
+.traffic{
+    width: 100px;
+    border: 3px solid purple;
+    padding: 20px 20px 20px 20px;
+    background-color: #222;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    position: sticky;
+   
+}
+.traffic2{
+    background-color: purple;
+        width: 100px;
+    border: 3px solid rgb(14, 0, 14);
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    z-index: -1;
+    background-image: url(wall.jpg);
+    background-size: cover;
+    
+}
+
+.red1{
+    width: 100px;
+    height: 100px;
+     background-color: rgba(255, 0, 0, 1);
+    border-radius: 50%;
+  
+}
+.green2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(13, 255, 0);
+    border-radius: 50%;
+  
+}
+.yellow3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(234, 255, 0);
+    border-radius: 50%;
+  
+}
+
